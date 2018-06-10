@@ -8,3 +8,4 @@ Android Developer Task
 5-   I did not use any Threads in the app.<br />
 6-   I did not rename all GUI components.<br />
 
+![Screenshot](1.png) ![Screenshot](2.png) ![Screenshot](3.png)
