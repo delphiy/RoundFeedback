@@ -7,3 +7,4 @@ Android Developer Task
 4 -  The app include progress bar .The number on the left counts down the seconds left in the rest, whilst the progress bar shows how far through the rest period it is. <br />
 5-   I did not use any Threads in the app.<br />
 6-   I did not rename all GUI components.<br />
+
